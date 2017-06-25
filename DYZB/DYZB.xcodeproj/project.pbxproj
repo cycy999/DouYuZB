@@ -56,6 +56,7 @@
 		B6293B3A1EFFE3DB009C17A0 /* DYZB */ = {
 			isa = PBXGroup;
 			children = (
+				B6293B4F1EFFED35009C17A0 /* Classes */,
 				B6293B3B1EFFE3DB009C17A0 /* AppDelegate.swift */,
 				B6293B3D1EFFE3DB009C17A0 /* MasterViewController.swift */,
 				B6293B3F1EFFE3DB009C17A0 /* DetailViewController.swift */,
@@ -65,6 +66,61 @@
 				B6293B491EFFE3DB009C17A0 /* Info.plist */,
 			);
 			path = DYZB;
+			sourceTree = "<group>";
+		};
+		B6293B4F1EFFED35009C17A0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B6293B531EFFED35009C17A0 /* Main */,
+				B6293B511EFFED35009C17A0 /* Home */,
+				B6293B521EFFED35009C17A0 /* Live */,
+				B6293B501EFFED35009C17A0 /* Follow */,
+				B6293B541EFFED35009C17A0 /* Profile */,
+				B6293B551EFFED35009C17A0 /* Tools */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		B6293B501EFFED35009C17A0 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		B6293B511EFFED35009C17A0 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		B6293B521EFFED35009C17A0 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		B6293B531EFFED35009C17A0 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		B6293B541EFFED35009C17A0 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		B6293B551EFFED35009C17A0 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
